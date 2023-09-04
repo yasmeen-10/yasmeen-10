@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning  **DSA,Frontend,Backend,React**.
 - 👯 I’m looking to collaborate on Backend and React project.
 - 🧗🏾‍♀️ I try to: Go beyond and push the bounds
-- 🔭 I’m currently working on ** Tracker App**
+- 🔭 I’m currently working on ** Training and Placement App**
 
 - 👯 I’m looking to collaborate on **React**
 
@@ -80,24 +80,20 @@ Happy coding !!
 <h3><strong>connect with me!</strong></h3><br><br>
 
 <p align="center">
-<a href="https://twitter.com/PintuKu41020756" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pintu" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/pintu-kumar-developer/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pintu" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/13448269/pintu-kumar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="pintu" height="30" width="30" /></a>
-<a href="https://www.kaggle.com/pintukumard" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="pintu" height="30" width="30" /></a>
-<a href="https://www.facebook.com/profile.php?id=100015925119091" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="pintu" height="30" width="30" /></a>
-<a href="https://www.instagram.com/fullstoprockey/?hl=en" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="pintu" height="30" width="30" /></a>
-<a href="https://www.youtube.com/channel/UC4pvfTRkx3gQmIlP5vRoIPA?view_as=subscriber" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="pintu" height="30" width="30" /></a>
-<a href="https://www.hackerrank.com/8709793486jio" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="pintu" height="30" width="30" /></a>
-<a href="https://www.leetcode.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="pintu" height="30" width="30" /></a>
-<a href="https://auth.geeksforgeeks.org/user/user_w487/todo-done/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="pintu" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/yasmeen-824237207/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yasmeen" height="30" width="30" /></a>
+<a href="https://m.facebook.com/profile.php/?id=100013579307724&name=xhp_nt__fb__action__open_user" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="pintu" height="30" width="30" /></a>
+<a href="https://www.instagram.com/egofever/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="pintu" height="30" width="30" /></a>
+<a href="https://www.hackerrank.com/mohammedyasmeen1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="yasmeen" height="30" width="30" /></a>
+<a href="https://leetcode.com/egofever/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="yasmeen" height="30" width="30" /></a>
+<a href="https://auth.geeksforgeeks.org/user/mohammedyasmeen420" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="yasmeen" height="30" width="30" /></a>
 </p>
 
 
 
 
-  <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasmeen-10&show_icons=true&locale=en&layout=compact" alt="Pintu Kumar profile github states" /></p>
+  <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasmeen-10&show_icons=true&locale=en&layout=compact" alt="yasmeen profile github states" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yasmeen-10&show_icons=true&locale=en" alt="pintu-kumar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yasmeen-10&show_icons=true&locale=en" alt="yasmeen" /></p>
 
 
 # 🚀 Actions 🚀
